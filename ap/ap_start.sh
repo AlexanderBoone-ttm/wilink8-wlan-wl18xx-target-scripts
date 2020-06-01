@@ -1,5 +1,6 @@
 #!/system/bin/sh
 
+#script to start a soft AP
 INSMOD=/system/bin/insmod
 IFCONFIG=/system/bin/ifconfig
 HOSTAPD=/system/bin/hostapd
